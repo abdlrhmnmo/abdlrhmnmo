@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdlrhmnmo
 - 👀 I’m interested in Front-end, Back-end, Js and python as Programming languages.
-- 🌱 I’m currently Finished HTML and Css.
+- 🌱 I’m currently Finished HTML and Css and almostly javascript with templets.
 - ☝ I’m currently trying to apply what i have learned in small projects as a start to employing what i have learned.
 - 🔥 I’m currently learning JavaScript.
 - 💞️ I’m looking for opportunities in Programming field as Back-end developer.
